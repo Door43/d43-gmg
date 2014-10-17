@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmg:home|Door43 (gmg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmg|d43-gmg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmg/archive/master.zip|d43-gmg.zip]]
+
+**Recent Changes**
+{{changes>ns = gmg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmg|Ethnologue data]]
+
